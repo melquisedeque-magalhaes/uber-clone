@@ -8,8 +8,7 @@
 </h3>
 
 <p align="center">
-   <img src="https://img.shields.io/github/v/release/MartsTech/uber-clone" alt="Release" />
-   <img src="https://img.shields.io/github/license/MartsTech/uber-clone" alt="License" />
+   <img src="./github/imagens/uber-img.png" alt="Release" />
 </p>
 
 <p align="center">
