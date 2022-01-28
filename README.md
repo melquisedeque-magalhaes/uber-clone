@@ -35,16 +35,12 @@
 
 ## Como começar
 
-Clone this repo to your desktop and run `yarn install` to install all the dependencies.
-Then run `expo start` to start the application locally.
+```git clone https://github.com/melquisedeque-magalhaes/uber-clone``` Clonando o projeto
+``` yarn ``` instalando todas as dependecias
+``` expo start ``` para iniciar o projeto
 
-Change the .env.example file to .env.local.
-
-Create a billing account in Google Clound and add Places, Directions and Distance Matrix as APIs.
-
-Then create an API key and add it to your .env file
-
-Download Expo Go from either Google Play or Apple Store to run the app on your phone
+aparti dai você escolhe o emulador ou seu proprio dispositivo fisico para executar o projeto.
+para executar no dispositivo fisico e so scanear o qrcode.
 
 ---
 
