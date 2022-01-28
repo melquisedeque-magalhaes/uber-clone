@@ -36,8 +36,11 @@
 ## Como começar
 
 ```git clone https://github.com/melquisedeque-magalhaes/uber-clone``` Clonando o projeto
+<br />
 ``` yarn ``` instalando todas as dependecias
+<br />
 ``` expo start ``` para iniciar o projeto
+<br />
 
 aparti dai você escolhe o emulador ou seu proprio dispositivo fisico para executar o projeto.
 para executar no dispositivo fisico e so scanear o qrcode.
