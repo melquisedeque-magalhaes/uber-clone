@@ -73,3 +73,4 @@ Whether you use this project, have learned something from it, or just like it, p
 
 ---
 
+<p align="center">With 💜, by Melqui Sodré.</p>
