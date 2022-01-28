@@ -13,11 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#key-technologies">Key Technologies</a> •
-  <a href="#setup">Setup</a> •
-  <a href="#support">Support</a> •
-  <a href="#license">License</a>
+  <a href="#tecnologias">Tecnologias</a> •
+  <a href="#Como começar">Como começar</a> •
+  <a href="#Suporte">Suporte</a> •
 </p>
 <div align="center">
   <img width="400px" height="800px" style="object-fit: contain" src="https://raw.githubusercontent.com/MartsTech/uber-clone/main/assets/screenshots/home.png" alt="home" />
@@ -26,29 +24,16 @@
 
 ---
 
-## Key Features
-
-- iOS & Android
-- Real world navigation
-- Calculate Travel time, Distance and Cost
-- Apple & Google maps for iOS & Android
-- Navigate between screens
-- Elegant Design
-
----
-
-## Key Technologies
+## Tecnologias
 
 - React Native
 - Expo
 - React Native Navigation
-- Mobx
-- Google Places, Directions and Distance Matrix API
 - Typescript
 
 ---
 
-## Setup
+## Como começar
 
 Clone this repo to your desktop and run `yarn install` to install all the dependencies.
 Then run `expo start` to start the application locally.
@@ -63,7 +48,7 @@ Download Expo Go from either Google Play or Apple Store to run the app on your p
 
 ---
 
-## Support
+## Suporte
 
 Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)
 
