@@ -17,8 +17,7 @@
   <a href="#Suporte">Suporte</a> •
 </p>
 <div align="center">
-  <img width="400px" height="800px" style="object-fit: contain" src="https://raw.githubusercontent.com/MartsTech/uber-clone/main/assets/screenshots/home.png" alt="home" />
-  <img width="400px" height="800px" style="object-fit: contain" src="https://raw.githubusercontent.com/MartsTech/uber-clone/main/assets/screenshots/map.png" alt="map" />
+  <img src="./github/imagens/uber-img.png" alt="Release" />
 </div>
 
 ---
