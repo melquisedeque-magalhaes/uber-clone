@@ -7,9 +7,6 @@
    Uber Clone criado com React Native</a>.
 </h3>
 
-<p align="center">
-   <img src="./github/imagens/uber-img.png" alt="Release" />
-</p>
 
 <p align="center">
   <a href="#tecnologias">Tecnologias</a> •
@@ -17,7 +14,7 @@
   <a href="#Suporte">Suporte</a> •
 </p>
 <div align="center">
-  <img src="./github/imagens/uber-img.png" alt="Release" />
+  <img src="https://github.com/melquisedeque-magalhaes/uber-clone/blob/73e9edd10003955173a94098ab6dd1a1683782b3/github/images/uber-img.png" alt="Release" />
 </div>
 
 ---
